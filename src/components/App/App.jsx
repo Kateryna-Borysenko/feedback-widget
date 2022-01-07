@@ -5,6 +5,7 @@ import FeedbackOptions from 'components/FeedbackOptions/FeedbackOptions';
 import Section from 'components/Section/Section';
 import Notification from 'components/Notification/Notification';
 import styles from 'components/App/App.module.css';
+import Container from 'components/Container/Container';
 
 const App = () => {
   const [good, setGood] = useState(0);
@@ -37,7 +38,7 @@ const App = () => {
   };
 
   return (
-    <div className={styles.container}>
+    <Container>
       <h1 className={styles.title}>Please Leave Your</h1>
       <img className={styles.image} src={image} alt="Feedback" />
 
@@ -59,7 +60,7 @@ const App = () => {
           <Notification message="There is no feedback" />
         )}
       </Section>
-    </div>
+    </Container>
   );
 };
 
