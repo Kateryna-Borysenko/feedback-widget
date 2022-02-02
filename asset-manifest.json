@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Kateryna-Borysenko/goit-react-hw-04-hooks-images/static/css/main.00ccac84.chunk.css",
-    "main.js": "/Kateryna-Borysenko/goit-react-hw-04-hooks-images/static/js/main.2953c3c3.chunk.js",
-    "main.js.map": "/Kateryna-Borysenko/goit-react-hw-04-hooks-images/static/js/main.2953c3c3.chunk.js.map",
-    "runtime-main.js": "/Kateryna-Borysenko/goit-react-hw-04-hooks-images/static/js/runtime-main.9b0b6e1d.js",
-    "runtime-main.js.map": "/Kateryna-Borysenko/goit-react-hw-04-hooks-images/static/js/runtime-main.9b0b6e1d.js.map",
-    "static/js/2.349684b4.chunk.js": "/Kateryna-Borysenko/goit-react-hw-04-hooks-images/static/js/2.349684b4.chunk.js",
-    "static/js/2.349684b4.chunk.js.map": "/Kateryna-Borysenko/goit-react-hw-04-hooks-images/static/js/2.349684b4.chunk.js.map",
-    "index.html": "/Kateryna-Borysenko/goit-react-hw-04-hooks-images/index.html",
-    "static/css/main.00ccac84.chunk.css.map": "/Kateryna-Borysenko/goit-react-hw-04-hooks-images/static/css/main.00ccac84.chunk.css.map",
-    "static/js/2.349684b4.chunk.js.LICENSE.txt": "/Kateryna-Borysenko/goit-react-hw-04-hooks-images/static/js/2.349684b4.chunk.js.LICENSE.txt",
-    "static/media/feedback.d34b5374.jpeg": "/Kateryna-Borysenko/goit-react-hw-04-hooks-images/static/media/feedback.d34b5374.jpeg"
+    "main.css": "/Kateryna-Borysenko/goit-react-hw-04-hooks-feedback/static/css/main.00ccac84.chunk.css",
+    "main.js": "/Kateryna-Borysenko/goit-react-hw-04-hooks-feedback/static/js/main.2953c3c3.chunk.js",
+    "main.js.map": "/Kateryna-Borysenko/goit-react-hw-04-hooks-feedback/static/js/main.2953c3c3.chunk.js.map",
+    "runtime-main.js": "/Kateryna-Borysenko/goit-react-hw-04-hooks-feedback/static/js/runtime-main.78e54bcc.js",
+    "runtime-main.js.map": "/Kateryna-Borysenko/goit-react-hw-04-hooks-feedback/static/js/runtime-main.78e54bcc.js.map",
+    "static/js/2.349684b4.chunk.js": "/Kateryna-Borysenko/goit-react-hw-04-hooks-feedback/static/js/2.349684b4.chunk.js",
+    "static/js/2.349684b4.chunk.js.map": "/Kateryna-Borysenko/goit-react-hw-04-hooks-feedback/static/js/2.349684b4.chunk.js.map",
+    "index.html": "/Kateryna-Borysenko/goit-react-hw-04-hooks-feedback/index.html",
+    "static/css/main.00ccac84.chunk.css.map": "/Kateryna-Borysenko/goit-react-hw-04-hooks-feedback/static/css/main.00ccac84.chunk.css.map",
+    "static/js/2.349684b4.chunk.js.LICENSE.txt": "/Kateryna-Borysenko/goit-react-hw-04-hooks-feedback/static/js/2.349684b4.chunk.js.LICENSE.txt",
+    "static/media/feedback.d34b5374.jpeg": "/Kateryna-Borysenko/goit-react-hw-04-hooks-feedback/static/media/feedback.d34b5374.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9b0b6e1d.js",
+    "static/js/runtime-main.78e54bcc.js",
     "static/js/2.349684b4.chunk.js",
     "static/css/main.00ccac84.chunk.css",
     "static/js/main.2953c3c3.chunk.js"
