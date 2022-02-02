@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-04-hooks-feedback/static/css/main.00ccac84.chunk.css",
-    "main.js": "/goit-react-hw-04-hooks-feedback/static/js/main.2953c3c3.chunk.js",
-    "main.js.map": "/goit-react-hw-04-hooks-feedback/static/js/main.2953c3c3.chunk.js.map",
-    "runtime-main.js": "/goit-react-hw-04-hooks-feedback/static/js/runtime-main.7032e3a2.js",
-    "runtime-main.js.map": "/goit-react-hw-04-hooks-feedback/static/js/runtime-main.7032e3a2.js.map",
-    "static/js/2.349684b4.chunk.js": "/goit-react-hw-04-hooks-feedback/static/js/2.349684b4.chunk.js",
-    "static/js/2.349684b4.chunk.js.map": "/goit-react-hw-04-hooks-feedback/static/js/2.349684b4.chunk.js.map",
-    "index.html": "/goit-react-hw-04-hooks-feedback/index.html",
-    "static/css/main.00ccac84.chunk.css.map": "/goit-react-hw-04-hooks-feedback/static/css/main.00ccac84.chunk.css.map",
-    "static/js/2.349684b4.chunk.js.LICENSE.txt": "/goit-react-hw-04-hooks-feedback/static/js/2.349684b4.chunk.js.LICENSE.txt",
-    "static/media/feedback.d34b5374.jpeg": "/goit-react-hw-04-hooks-feedback/static/media/feedback.d34b5374.jpeg"
+    "main.css": "/Kateryna-Borysenko/feedback-widget/static/css/main.00ccac84.chunk.css",
+    "main.js": "/Kateryna-Borysenko/feedback-widget/static/js/main.2953c3c3.chunk.js",
+    "main.js.map": "/Kateryna-Borysenko/feedback-widget/static/js/main.2953c3c3.chunk.js.map",
+    "runtime-main.js": "/Kateryna-Borysenko/feedback-widget/static/js/runtime-main.7c0068b4.js",
+    "runtime-main.js.map": "/Kateryna-Borysenko/feedback-widget/static/js/runtime-main.7c0068b4.js.map",
+    "static/js/2.349684b4.chunk.js": "/Kateryna-Borysenko/feedback-widget/static/js/2.349684b4.chunk.js",
+    "static/js/2.349684b4.chunk.js.map": "/Kateryna-Borysenko/feedback-widget/static/js/2.349684b4.chunk.js.map",
+    "index.html": "/Kateryna-Borysenko/feedback-widget/index.html",
+    "static/css/main.00ccac84.chunk.css.map": "/Kateryna-Borysenko/feedback-widget/static/css/main.00ccac84.chunk.css.map",
+    "static/js/2.349684b4.chunk.js.LICENSE.txt": "/Kateryna-Borysenko/feedback-widget/static/js/2.349684b4.chunk.js.LICENSE.txt",
+    "static/media/feedback.d34b5374.jpeg": "/Kateryna-Borysenko/feedback-widget/static/media/feedback.d34b5374.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7032e3a2.js",
+    "static/js/runtime-main.7c0068b4.js",
     "static/js/2.349684b4.chunk.js",
     "static/css/main.00ccac84.chunk.css",
     "static/js/main.2953c3c3.chunk.js"
